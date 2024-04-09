@@ -1,0 +1,7 @@
+{
+    "mahajatra": {"available_seats": ["A1","A2", "B1", "B2"]}, 
+    "kung fu panda 4": {"available_seats": ["A1", "A2","B1", "B2"]},
+    "shaitaan": {"available_seats": ["A1", "A2", "B1", "B2"]},
+    "crew": {"available_seats": ["A1", "A2", "B1", "B2"]},
+    "ghostbusters": {"available_seats": ["A1", "A2", "B1", "B2"]}
+}
